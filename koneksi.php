@@ -2,7 +2,7 @@
     $host = "localhost";
     $db = "belajarphp";
     $user = "viko_ramayudha";
-    $password = "poltek2023";
+    $password = "";
 
     $con = mysqli_connect($host, $user, $password, $db);
 
